@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Bus Simulator Pro Max</string>
+    <string name="_default_notification_channel_id_Bus_Pro">Notification</string>
+    <string name="BusMax_offline_message_1">Internet connection down?</string>
+    <string name="BusMax_offline_message_2">Wifi and mobile data are supported</string>
+    <string name="BusMax_try_again">try again</string>
+    <string name="BusMax_notification_channel_name">BusSimulatorMAX channel</string>
+    <string name="BusMax_notification_channel_description">Used to display Ludo notifications</string>
+    <string name="BusMax_notification_channel_id">BusSimulatorMAX notification</string>
+    <string name="BusMax_no_internet_connection">Please check your internet connection \n try again</string>
+    <string name="BusMax_alertTitle">No internet connection</string>
+
+
+    //a
+    <string name="rewarded_ad" translatable="false">27954f7c62df93ea</string>
+    <string name="intertial_ads" translatable="false">128c592d684d30b4</string>
+
+
+    //p
+    <string name="alertTitle">No Internet Connection</string>
+    <string name="alertMsg">Please check your Internet connection and try again</string>
+    <string name="alertBtn">RETRY</string>
+    <string name="alertBtnOK">OK</string>
+    <string name="try_again">Try Again</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+
+</resources>

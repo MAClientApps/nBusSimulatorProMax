@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "725709799461",
+    "firebase_url": "https://firebace-video-app-default-rtdb.firebaseio.com",
+    "project_id": "firebace-video-app",
+    "storage_bucket": "firebace-video-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725709799461:android:6d80c5509080eb12ffbfcc",
+        "android_client_info": {
+          "package_name": "com.example.firebacevideoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725709799461-p1gulo4hiid5j5obkngqp5t6fj1df4v0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxxIqH9U5wewqGRbbnn_99vbZWDhm33Qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725709799461-p1gulo4hiid5j5obkngqp5t6fj1df4v0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725709799461:android:6aee097094d07eadffbfcc",
+        "android_client_info": {
+          "package_name": "com.testing.recorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725709799461-p1gulo4hiid5j5obkngqp5t6fj1df4v0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxxIqH9U5wewqGRbbnn_99vbZWDhm33Qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725709799461-p1gulo4hiid5j5obkngqp5t6fj1df4v0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725709799461:android:9c37bc15c32b76d7ffbfcc",
+        "android_client_info": {
+          "package_name": "com.testing.simulatormax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725709799461-p1gulo4hiid5j5obkngqp5t6fj1df4v0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxxIqH9U5wewqGRbbnn_99vbZWDhm33Qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725709799461-p1gulo4hiid5j5obkngqp5t6fj1df4v0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
